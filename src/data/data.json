@@ -15,11 +15,6 @@
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Melting",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
       "title": "Dissolving",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
@@ -30,15 +25,21 @@
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
+      "title": "Aqua Regia",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
       "title": "Filtration",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Aqua Regia",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Melting",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
     }
+
   ],
   "Services": [
     {
