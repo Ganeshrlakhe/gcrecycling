@@ -13,7 +13,7 @@ export const Features = (props) => {
                 <div key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
                   {" "}
                   <i className={d.icon}></i>
-                  <p style={{fontSize:"11px"}}>{d.text}</p>
+                  <p style={{fontSize:"10px"}}>{d.text}</p>
                 </div>
               ))
             : "Loading..."}
