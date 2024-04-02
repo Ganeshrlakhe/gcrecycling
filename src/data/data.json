@@ -1,0 +1,113 @@
+{
+  "Header": {
+    "title": "GC RECYCLING",
+    "paragraph": "At GC Recycling, we recognize the growing problem of e-waste and its detrimental impact on the environment. That's why we provide a comprehensive e-waste reduction solution that prioritizes environmental safety"
+  },
+  "About": {
+    "paragraph": "We are pioneering E-waste recycling startup that specializes in the responsible collection and recycling of electronic waste. In our state of-the-art facility, we focus on extracting valuable materials such as gold, silver, and rate metals from discarded electronics, contributing significantly to environmental conservation and resource sustainability ",
+    "paragraph1":"Our team of experts is dedicated to reducing e waste and extracting precious metals in an environmentally responsible and efficient manner.. We leverage advanced technology and processes to ensure the highest quality services, while minimizing our carbon footprint. Our team is passionate about making a positive impact on the world, and we are proud to be at the forefront of sustainable solutions"
+    
+  },
+  "Gallery": [
+    {
+      "title": "Seperation",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Melting",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Dissolving",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "H2s04",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Filtration",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Aqua Regia",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-diamond",
+      "name": "Precious Metal Extraction",
+      "text": "We extract precious metals like gold, silver, copper, and more from Green circuits or PCBs, providing a sustainable solution for the environment and a lucrative source of revenue for our clients."
+    },
+    {
+      "icon": "fa fa-recycle",
+      "name": "E-waste Recycling",
+      "text": "We provide a sustainable solution to the problem of e-waste by reducing it through our comprehensive recycling programs that prioritize environmental safety"
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Sustainable Solutions",
+      "text": "At GC Recycling, we offer a range of sustainable solutions that prioritize environmental safety and provide long term benefits for our clients."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Pranav.jpg",
+      "name": "Pranav Patil",
+      "job": "Team Leader"
+    },
+    {
+      "img": "img/team/Sahil.jpg",
+      "name": "Sahil Borse",
+      "job": "Research"
+    },
+    {
+      "img": "img/team/Ganesh.jpg",
+      "name": "Ganesh Lakhe",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/Amruta.jpg",
+      "name": "Amruta Pawar",
+      "job": "Marketing"
+    },
+    {
+      "img": "img/team/Kashish.jpg",
+      "name": "Kashish Sharma",
+      "job": "Finance"
+    }
+  ],
+  "Contact": {
+    "address": "Manchar Pune, 410503",
+    "phone": "+91 958 8480 665",
+    "email": "gcrecycling57@gmail.com",
+    "instagram": "https://www.instagram.com/gcrecycling/?igsh=MXVnd2Q5b3Rva3BjMQ%3D%3D",
+    "envelope": "gcrecycling57@gmail.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-leaf",
+      "text": "Environmentally Friendly Practices: Implement eco-friendly practices in your recycling process, minimizing the environmental impact. This could include using renewable energy sources and water recycling systems."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "text": "Increasing awareness about recycling involves educating people about the importance of recycling, the benefits of recycling, and how to recycle properly. This can be done through public education and campaigns"
+    },
+    {
+      "icon": "fa fa-group",
+      "text": "To decrease e-waste, individuals and organizations like us take steps such as recycling old electronics and extract good values."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "text": "Extracting precious metals like Gold Silver Copper platium with purity from the E-waste or PCBs"
+    }
+  ]
+}
