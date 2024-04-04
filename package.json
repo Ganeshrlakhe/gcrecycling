@@ -1,5 +1,5 @@
 {
-  "name": "GC Recycling",
+  "name": "gcrecycling",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
